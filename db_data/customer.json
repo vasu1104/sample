@@ -1,0 +1,11 @@
+[
+  {
+    "_id": {
+      "$oid": "6096d003034c2b365c95040f"
+    },
+    "name": "Yash Gosara",
+    "email": "yash.gosara@gmail.com",
+    "phone": "1234567890",
+    "__v": 0
+  }
+]
